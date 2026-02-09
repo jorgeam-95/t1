@@ -8,4 +8,4 @@ def home():
 
 @app.get("/datos")
 def saludo():
-    return {"nombre": "Jorge Ambrosio", "Cancion": "Journemay"}
+    return {"nombre": "Jorge Ambrosio", "Album": "Octopus"}
